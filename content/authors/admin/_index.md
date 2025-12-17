@@ -44,24 +44,24 @@ profiles:
     url: https://orcid.org/0009-0001-4871-6345
 
 interests:
-  - Software Engineering
   - Large Language Models
-  - AI for Software Engineering
-  - Code Intelligence
+  - Natural Language Processing
+  - Autonomous Agents
+  - Multimodal Learning
 
 education:
-  - area: PhD in Computer Science (Expected)
-    institution: Zhejiang University
+  - area: Direct PhD Student (Incoming)
+    institution: Zhejiang University & Shanghai Innovation Institute
     date_start: 2026-09-01
     date_end: 2031-06-30
     summary: |
-      College of Computer Science and Technology
+      College of Computer Science and Technology (ZJU) & Shanghai Innovation Institute (SII)
       
-      Research interests: Software Engineering, Large Language Models, AI for SE
+      Research interests: Natural Language Processing, Large Language Models, Autonomous Agents, Multimodal Intelligence
       
-      Anticipated supervisors: [Prof. Xin Xia](https://xin-xia.github.io/) & [Prof. Xing Hu](https://xing-hu.github.io/)
+      Advisors: [Prof. Yongliang Shen](https://person.zju.edu.cn/shenyongliang) & [Prof. Xipeng Qiu](https://xpqiu.github.io/)
       
-      Research direction: Intersection of SE and LLM technologies
+      Research direction: Building intelligent systems for perception, reasoning, and action in complex open-world environments
   - area: Computer Science and Technology (Undergraduate)
     institution: Zhejiang University of Technology
     date_start: 2022-09-01
@@ -99,7 +99,7 @@ skills:
         description: ''
         percent: 80
         icon: chart-bar
-      - name: Software Engineering
+      - name: NLP & LLMs
         description: ''
         percent: 75
         icon: cpu-chip

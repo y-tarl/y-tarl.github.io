@@ -15,9 +15,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        I am currently a senior undergraduate student at Zhejiang University of Technology, passionate about the intersection of Software Engineering and Large Language Models. I will graduate with my bachelor's degree in 2026 and am excited to pursue PhD studies at Zhejiang University under the supervision of [Prof. Xin Xia](https://xin-xia.github.io/) and [Prof. Xing Hu](https://xing-hu.github.io/), focusing on applying LLM technologies to enhance software development processes and code intelligence. 
+        I am a fourth-year (senior) undergraduate student at Zhejiang University of Technology, and an incoming **Direct PhD student** at Zhejiang University (ZJU) starting in 2026. Currently, I am enrolled in a joint training program at **Shanghai Innovation Institute (SII)**, co-advised by **[Prof. Yongliang Shen](https://person.zju.edu.cn/shenyongliang)** (ZJU) and **[Prof. Xipeng Qiu](https://xpqiu.github.io/)** (SII).
 
-        During my undergraduate studies, I have gained valuable research experience in various AI domains, including medical image processing, knowledge graphs, and vision-language models. I work closely with several amazing researchers, including my undergraduate supervisor [Prof. Jianwei Zheng](https://zhengjianwei2.github.io/) and [Jiahe Chen](https://jiahechen2002.github.io/) (my senior colleague), and I'm always open to new collaborations and connections in the research community! 😊
+        My research focuses on **NLP** and **LLMs**, particularly **Autonomous Agents** and **Multimodal Intelligence**, aiming to build intelligent systems that can perceive, reason, and act in complex open-world environments. My undergraduate supervisor is [Prof. Jianwei Zheng](https://zhengjianwei2.github.io/). Previously, I gained research experience across medical image processing, knowledge graphs, and vision-language models, and I have worked closely with [Jiahe Chen](https://jiahechen2002.github.io/) (my senior colleague). I am always open to collaborations and connections in the research community.
       # Show a call-to-action button under your biography? (optional)
       # button:
       #   text: Download CV
